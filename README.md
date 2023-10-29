@@ -3,7 +3,7 @@
 
 **CalcGenius** is a simple web-based calculator designed to cater to a wide range of mathematical and engineering needs. It offers advanced features and a streamlined user interface for accurate and efficient calculations.
 
-![Calculator]()
+![Calculator](https://github.com/DynamicGuy18/CalcGenius-Your-Ultimate-Calculator/blob/5ebae2fb5c250a54caa1591ea1b1fe08b4c00037/calciIMG.png)
 
 ## Features
 
