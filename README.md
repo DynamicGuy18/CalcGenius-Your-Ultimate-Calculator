@@ -1,7 +1,9 @@
 # CalcGenius-Your-Ultimate-Calculator
 
 
-**CalcGenius** is a sophisticated web-based calculator designed to cater to a wide range of mathematical and engineering needs. It offers advanced features and a streamlined user interface for accurate and efficient calculations.
+**CalcGenius** is a simple web-based calculator designed to cater to a wide range of mathematical and engineering needs. It offers advanced features and a streamlined user interface for accurate and efficient calculations.
+
+![Calculator]()
 
 ## Features
 
